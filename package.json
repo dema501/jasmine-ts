@@ -44,7 +44,7 @@
     "jasmine": ">=3.4",
     "jasmine-spec-reporter": "^4.2.1",
     "rimraf": "^2.6.3",
-    "ts-node": ">=3.2.0 <=8",
+    "ts-node": ">=3.2.0 <=9",
     "tslint": "^5.17.0",
     "typescript": ">=3.5.2"
   },
